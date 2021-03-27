@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheLordSaurabh
+- 👋 Hi, I’m Saurabh Gupta 
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning DSA and Basics of Machine Learning
 - 📫 Contact Details (E-Mail) : sgguptatechmail@gmail.com 
