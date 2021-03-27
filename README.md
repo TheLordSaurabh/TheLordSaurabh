@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saurabh Gupta 
-- 👀 I’m interested in Software Development 
+- 👀 I’m interested in Software Development and Artificial Intelligence 
 - 🌱 I’m currently learning DSA and Basics of Machine Learning
 - 📫 Contact Details (E-Mail) : sgguptatechmail@gmail.com 
 
